@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nalin</h1>
 <h3 align="center">A passionate ML and DL practitioner</h3>
 
-- 🔭 I’m currently working on **Fusarium Wilt Severity CLassification**
+- 🔭 I’m currently working on **Fusarium Wilt Severity Classification using DL**
 
 - 🌱 I’m currently learning **NLP, LLMs, MLOps**
 
