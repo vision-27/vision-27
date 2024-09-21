@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nalin</h1>
 <h3 align="center">A passionate ML and DL practitioner</h3>
 
-- 🔭 I’m currently working on **Contraband detection in XRay baggage scans using Deep Learning**
+- 🔭 I’m currently working on **Spleen injury detection using Deep Learning**
 
 - 🌱 I’m currently learning **NLP, LLMs, MLOps**
 
