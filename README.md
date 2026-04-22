@@ -54,4 +54,4 @@ Currently: Master of IT (AI) @ UNSW | Published AI researcher
 </p>
 
 
-Success isn't about learning everything perfectly—it's about shipping fast, iterating based on feedback, and solving problems that matter. I build AI for education equity, healthcare, and disaster response because impact comes first.
+Success isn't about learning everything perfectly. It is about shipping fast, iterating based on feedback, and solving problems that matter. I build AI for education equity, healthcare, and disaster response because impact comes first.
