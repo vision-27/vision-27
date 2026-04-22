@@ -38,10 +38,6 @@ Currently: Master of IT (AI) @ UNSW | Published AI researcher
 
 ---
 
-### 📖 Recent Projects
-
-**Sentinel** (ElevenLabs Global Hackathon Winner)
-
 ### 🤝 Connect With Me
 
 <p align="left">
